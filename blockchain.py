@@ -4,7 +4,9 @@ Created on Mon Aug 16 18:18:32 2021
 
 @author: vikram
 """
-
+#install Flask in your PC
+#pip install Flask
+#After installing Flask run http://127.0.0.1:5000/ on Flask
 import datetime
 import hashlib
 import json
